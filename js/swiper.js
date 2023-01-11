@@ -1,0 +1,1 @@
+new Swiper('.products-slider__items');
